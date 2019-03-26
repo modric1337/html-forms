@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<HTML>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+<TITLE></TITLE>
+</head>
+<body>
+<form>
+            username:<br>
+            <input type="text" name="firstname">
+             <br>
+            password:<br>
+             <input type="text" name="lastname">
+             <br><input type="submit" value="Login">
+</form>
+ 
+
+    <link rel="stylesheet" href= "stylez.css">
+
+<h1>DOCUMENTING THE CREATION OF ANDROIDS 17 AND 18</h1>
+
+<nav> nav bar here </nav>
+
+<H2>CHAPTER 1: FINDING THE SUITABLE PEOPLE TO CONVERT</H2>
+<section>
+<br> <P> Finding the right person to use as 17 was not easy, here were some
+    candidates considered. </P>
+
+<img src="images/download.jpg" alt="candidates for 17" width="128" height= "128">
+<img src="images/s-l300.jpg" alt="candidates for 17" width="128" height= "128">
+<img src="images/dog.jpg" alt="candidates for 17" width="128" height= "128">
+
+<p> As you can see, none of them had the potential for an infinite energy model. </p>
+
+</section>
+
+
+</body>
+
+<footer>footer here</footer>
+
+
+
+</HTML>
